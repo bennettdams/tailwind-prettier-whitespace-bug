@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-prettier-whitespace-bug",
+  "version": "1.0.0",
+  "description": "Reproduction repo",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennettdams/tailwind-prettier-whitespace-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennettdams/tailwind-prettier-whitespace-bug/issues"
+  },
+  "homepage": "https://github.com/bennettdams/tailwind-prettier-whitespace-bug#readme",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.9"
+  }
+}
